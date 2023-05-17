@@ -1,4 +1,4 @@
-﻿namespace _13._Roman_to_Integer
+﻿namespace _13RomanToInteger
 {
     public class Solution
     {
