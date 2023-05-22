@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13RomanToInteger", "13RomanToInteger\13RomanToInteger.csproj", "{A275EC8F-F419-4648-A351-8EF463320A79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13RomanToInteger", "13RomanToInteger\13RomanToInteger.csproj", "{A275EC8F-F419-4648-A351-8EF463320A79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1TwoSum", "1TwoSum\1TwoSum.csproj", "{618CA176-3FEB-47FD-BB1B-AF8DA5D3A94F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1TwoSum", "1TwoSum\1TwoSum.csproj", "{618CA176-3FEB-47FD-BB1B-AF8DA5D3A94F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2AddTwoNumbers", "2AddTwoNumbers\2AddTwoNumbers.csproj", "{106ED19C-8035-4CAC-BBD3-279AC4131696}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2AddTwoNumbers", "2AddTwoNumbers\2AddTwoNumbers.csproj", "{106ED19C-8035-4CAC-BBD3-279AC4131696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9PalindromeNumber", "9PalindromeNumber\9PalindromeNumber.csproj", "{F2A87DB6-CAB2-40CD-A991-27BADC1B9F57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{106ED19C-8035-4CAC-BBD3-279AC4131696}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{106ED19C-8035-4CAC-BBD3-279AC4131696}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{106ED19C-8035-4CAC-BBD3-279AC4131696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A87DB6-CAB2-40CD-A991-27BADC1B9F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A87DB6-CAB2-40CD-A991-27BADC1B9F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A87DB6-CAB2-40CD-A991-27BADC1B9F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A87DB6-CAB2-40CD-A991-27BADC1B9F57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
