@@ -14,7 +14,7 @@ namespace _9PalindromeNumber
         [InlineData(1)]
         [InlineData(121)]
         [InlineData(9889)]
-        public void PalindromeNumber_ShouldReturnTrueWhenNumberIsAPalindrome(int input)
+        public void IsPalindrome_ShouldReturnTrueWhenNumberIsAPalindrome(int input)
         {
             // Arrange
             var solution = new Solution();
@@ -29,7 +29,7 @@ namespace _9PalindromeNumber
         [Theory]
         [InlineData(1234)]
         [InlineData(-121)]
-        public void PalindromeNumber_ShouldReturnFalseWhenNumberIsNotAPalindrome(int input)
+        public void IsPalindrome_ShouldReturnFalseWhenNumberIsNotAPalindrome(int input)
         {
             // Arrange
             var solution = new Solution();
