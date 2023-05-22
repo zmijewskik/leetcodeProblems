@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1TwoSum", "1TwoSum\1TwoSum.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2AddTwoNumbers", "2AddTwoNumbers\2AddTwoNumbers.csproj", "{106ED19C-8035-4CAC-BBD3-279AC4131696}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9PalindromeNumber", "9PalindromeNumber\9PalindromeNumber.csproj", "{F2A87DB6-CAB2-40CD-A991-27BADC1B9F57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9PalindromeNumber", "9PalindromeNumber\9PalindromeNumber.csproj", "{F2A87DB6-CAB2-40CD-A991-27BADC1B9F57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14LongestCommonPrefix", "14LongestCommonPrefix\14LongestCommonPrefix.csproj", "{EEFF06A0-D403-4B50-B034-832395F2CEF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F2A87DB6-CAB2-40CD-A991-27BADC1B9F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2A87DB6-CAB2-40CD-A991-27BADC1B9F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2A87DB6-CAB2-40CD-A991-27BADC1B9F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEFF06A0-D403-4B50-B034-832395F2CEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEFF06A0-D403-4B50-B034-832395F2CEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEFF06A0-D403-4B50-B034-832395F2CEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEFF06A0-D403-4B50-B034-832395F2CEF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
