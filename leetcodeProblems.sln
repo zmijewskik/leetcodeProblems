@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2AddTwoNumbers", "2AddTwoNu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9PalindromeNumber", "9PalindromeNumber\9PalindromeNumber.csproj", "{F2A87DB6-CAB2-40CD-A991-27BADC1B9F57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14LongestCommonPrefix", "14LongestCommonPrefix\14LongestCommonPrefix.csproj", "{EEFF06A0-D403-4B50-B034-832395F2CEF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14LongestCommonPrefix", "14LongestCommonPrefix\14LongestCommonPrefix.csproj", "{EEFF06A0-D403-4B50-B034-832395F2CEF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "703KthLargestElementInAStream", "703KthLargestElementInAStream\703KthLargestElementInAStream.csproj", "{24744F2E-B3A1-466E-B9CB-666C82AC5558}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "703KthLargestElementInAStream", "703KthLargestElementInAStream\703KthLargestElementInAStream.csproj", "{24744F2E-B3A1-466E-B9CB-666C82AC5558}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20ValidParentheses", "20ValidParentheses\20ValidParentheses.csproj", "{BD0B3F73-F237-49AD-8389-C0CB6F714B17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{24744F2E-B3A1-466E-B9CB-666C82AC5558}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24744F2E-B3A1-466E-B9CB-666C82AC5558}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24744F2E-B3A1-466E-B9CB-666C82AC5558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0B3F73-F237-49AD-8389-C0CB6F714B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0B3F73-F237-49AD-8389-C0CB6F714B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0B3F73-F237-49AD-8389-C0CB6F714B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0B3F73-F237-49AD-8389-C0CB6F714B17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
