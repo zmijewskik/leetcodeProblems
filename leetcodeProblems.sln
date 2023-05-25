@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14LongestCommonPrefix", "14
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "703KthLargestElementInAStream", "703KthLargestElementInAStream\703KthLargestElementInAStream.csproj", "{24744F2E-B3A1-466E-B9CB-666C82AC5558}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20ValidParentheses", "20ValidParentheses\20ValidParentheses.csproj", "{BD0B3F73-F237-49AD-8389-C0CB6F714B17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20ValidParentheses", "20ValidParentheses\20ValidParentheses.csproj", "{BD0B3F73-F237-49AD-8389-C0CB6F714B17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21MergeTwoSortedLists", "21MergeTwoSortedLists\21MergeTwoSortedLists.csproj", "{24C25D0F-EEA7-4FC1-BD34-7A4CB0D00ABD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{BD0B3F73-F237-49AD-8389-C0CB6F714B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD0B3F73-F237-49AD-8389-C0CB6F714B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD0B3F73-F237-49AD-8389-C0CB6F714B17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24C25D0F-EEA7-4FC1-BD34-7A4CB0D00ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C25D0F-EEA7-4FC1-BD34-7A4CB0D00ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C25D0F-EEA7-4FC1-BD34-7A4CB0D00ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C25D0F-EEA7-4FC1-BD34-7A4CB0D00ABD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
