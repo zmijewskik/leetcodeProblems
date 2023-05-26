@@ -10,20 +10,24 @@ namespace _27RemoveElement
 {
     public class SolutionTest
     {
-        [Theory]
-        [InlineData(, true)]
-        [InlineData("()[]{}", true)]
-        public void RemoveElement_ReturnsNumberOfNotRemovedElements(
-            int[] input, int val, int expected)
-        {
-            // Arrange
-            ValidParentheses solution = new ValidParentheses();
+        private readonly Solution _solution;
 
+        public SolutionTest()
+        {
+            _solution = new Solution();
+        }
+
+        [Theory]
+        [InlineData(new int[] { 3, 2, 2, 3 }, 3, 2)]
+        [InlineData(new int[] { 0, 1, 2, 2, 3, 0, 4, 2 }, 2, 5)]
+        public void RemoveElement_ReturnsNumberOfNotRemovedElements(
+            int[] input, int valueToRemove, int numbersLeft)
+        {
             // Act
-            bool result = solution.IsValid(input);
+            var result = _solution.RemoveElement(input, valueToRemove);
 
             // Assert
-            Assert.Equal(expected, result);
+            Assert.Equal(numbersLeft, result);
         }
     }
 }
