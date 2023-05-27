@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20ValidParentheses", "20Val
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21MergeTwoSortedLists", "21MergeTwoSortedLists\21MergeTwoSortedLists.csproj", "{24C25D0F-EEA7-4FC1-BD34-7A4CB0D00ABD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26RemoveDuplicatesFromSortedArray", "26RemoveDuplicatesFromSortedArray\26RemoveDuplicatesFromSortedArray.csproj", "{0FF6C2F9-7360-473E-B3CD-02008AF20D09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26RemoveDuplicatesFromSortedArray", "26RemoveDuplicatesFromSortedArray\26RemoveDuplicatesFromSortedArray.csproj", "{0FF6C2F9-7360-473E-B3CD-02008AF20D09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27RemoveElement", "27RemoveElement\27RemoveElement.csproj", "{D8BAA763-0888-44B5-A3D8-102AB786D609}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27RemoveElement", "27RemoveElement\27RemoveElement.csproj", "{D8BAA763-0888-44B5-A3D8-102AB786D609}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36ValidSudoku", "36ValidSudoku\36ValidSudoku.csproj", "{72ED83F3-9944-4549-B59C-3D700B1BC8FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{D8BAA763-0888-44B5-A3D8-102AB786D609}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8BAA763-0888-44B5-A3D8-102AB786D609}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8BAA763-0888-44B5-A3D8-102AB786D609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72ED83F3-9944-4549-B59C-3D700B1BC8FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72ED83F3-9944-4549-B59C-3D700B1BC8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72ED83F3-9944-4549-B59C-3D700B1BC8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72ED83F3-9944-4549-B59C-3D700B1BC8FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
