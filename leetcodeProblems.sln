@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28FindTheIndexOfTheFirstOcc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "35SearchInsertPosition", "35SearchInsertPosition\35SearchInsertPosition.csproj", "{1E7B0EB3-D855-4667-8452-B28F93206C00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "704BinarySearch", "704BinarySearch\704BinarySearch.csproj", "{432CE3C9-4DC7-44DD-987F-E42CB59B2E43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "704BinarySearch", "704BinarySearch\704BinarySearch.csproj", "{432CE3C9-4DC7-44DD-987F-E42CB59B2E43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "66PlusOne", "66PlusOne\66PlusOne.csproj", "{EECFC2FB-311E-47C5-84B7-4C4BE5A2466F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{432CE3C9-4DC7-44DD-987F-E42CB59B2E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{432CE3C9-4DC7-44DD-987F-E42CB59B2E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{432CE3C9-4DC7-44DD-987F-E42CB59B2E43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EECFC2FB-311E-47C5-84B7-4C4BE5A2466F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECFC2FB-311E-47C5-84B7-4C4BE5A2466F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECFC2FB-311E-47C5-84B7-4C4BE5A2466F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECFC2FB-311E-47C5-84B7-4C4BE5A2466F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
