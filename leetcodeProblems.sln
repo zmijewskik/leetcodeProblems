@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "35SearchInsertPosition", "3
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "704BinarySearch", "704BinarySearch\704BinarySearch.csproj", "{432CE3C9-4DC7-44DD-987F-E42CB59B2E43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "66PlusOne", "66PlusOne\66PlusOne.csproj", "{EECFC2FB-311E-47C5-84B7-4C4BE5A2466F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "66PlusOne", "66PlusOne\66PlusOne.csproj", "{EECFC2FB-311E-47C5-84B7-4C4BE5A2466F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "217ContainsDuplicate", "217ContainsDuplicate\217ContainsDuplicate.csproj", "{44948CA3-00F5-476F-B551-BD583738686A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{EECFC2FB-311E-47C5-84B7-4C4BE5A2466F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EECFC2FB-311E-47C5-84B7-4C4BE5A2466F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EECFC2FB-311E-47C5-84B7-4C4BE5A2466F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44948CA3-00F5-476F-B551-BD583738686A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44948CA3-00F5-476F-B551-BD583738686A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44948CA3-00F5-476F-B551-BD583738686A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44948CA3-00F5-476F-B551-BD583738686A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
