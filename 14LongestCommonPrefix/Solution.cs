@@ -28,7 +28,6 @@ namespace _14LongestCommonPrefix
                     }
                 }
             }
-
             return prefix;
         }
     }

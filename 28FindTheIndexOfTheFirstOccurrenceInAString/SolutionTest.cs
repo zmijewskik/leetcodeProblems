@@ -17,8 +17,6 @@ namespace _28FindTheIndexOfTheFirstOccurrenceInAString
         public void StrStr_ShouldReturnNeedlePosition(
             string haystack, string needle, int expected)
         {
-            // Arrange
-
             // Act
             var result = _solution.StrStr(haystack, needle);
 

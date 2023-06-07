@@ -7,14 +7,14 @@ using Xunit;
 
 namespace _703KthLargestElementInAStream
 {
-    public class KthLargestTest
+    public class SolutionTest
     {
         [Fact]
         public void TestKthLargest()
         {
             // Arrange
             int[] nums = new int[] { 4, 5, 8, 2 };
-            KthLargest kthLargest = new KthLargest(3, nums);
+            Solution kthLargest = new Solution(3, nums);
 
             // Act and Assert
             Assert.Equal(4, kthLargest.Add(3)); // return 4
