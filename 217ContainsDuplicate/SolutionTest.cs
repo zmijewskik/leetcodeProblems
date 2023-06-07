@@ -21,7 +21,10 @@ namespace _217ContainsDuplicate
         [InlineData(new int[] { 1, 1, 1, 3, 3, 4, 3, 2, 4, 2 }, true)]
         public void TestContainsDuplicates(int[] nums, bool expected)
         {
+            // Act
             bool result = _solution.ContainsDuplicate(nums);
+
+            // Assert
             Assert.Equal(result, expected);
         }
     }

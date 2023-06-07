@@ -4,6 +4,12 @@ namespace _21MergeTwoSortedLists
 {
     public class SolutionTest
     {
+        private readonly Solution _solution;
+        public SolutionTest()
+        {
+            _solution = new Solution();
+        }
+
         [Theory]
         [InlineData(new int[] { 1, 2, 4 }, new int[] { 1, 3, 4 }, new int[] { 1, 1, 2, 3, 4, 4 })]
         [InlineData(new int[] { 1, 2, 3 }, new int[] { }, new int[] { 1, 2, 3 })]
@@ -14,10 +20,9 @@ namespace _21MergeTwoSortedLists
             // Arrange
             ListNode l1 = CreateLinkedList(list1);
             ListNode l2 = CreateLinkedList(list2);
-            Solution solution = new Solution();
 
             // Act
-            ListNode result = solution.MergeTwoLists(l1, l2);
+            ListNode result = _solution.MergeTwoLists(l1, l2);
 
             // Assert
             int[] actual = ConvertLinkedListToArray(result);

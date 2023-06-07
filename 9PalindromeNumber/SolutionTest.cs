@@ -9,6 +9,12 @@ namespace _9PalindromeNumber
 {
     public class SolutionTest
     {
+        private readonly Solution _solution;
+        public SolutionTest()
+        {
+            _solution = new Solution();
+        }
+
         [Theory]
         [InlineData(0)]
         [InlineData(1)]
@@ -16,11 +22,8 @@ namespace _9PalindromeNumber
         [InlineData(9889)]
         public void IsPalindrome_ShouldReturnTrueWhenNumberIsAPalindrome(int input)
         {
-            // Arrange
-            var solution = new Solution();
-
             // Act
-            var result = solution.IsPalindrome(input);
+            var result = _solution.IsPalindrome(input);
 
             // Assert
             Assert.True(result);
@@ -31,11 +34,8 @@ namespace _9PalindromeNumber
         [InlineData(-121)]
         public void IsPalindrome_ShouldReturnFalseWhenNumberIsNotAPalindrome(int input)
         {
-            // Arrange
-            var solution = new Solution();
-
             // Act
-            var result = solution.IsPalindrome(input);
+            var result = _solution.IsPalindrome(input);
 
             // Assert
             Assert.False(result);
