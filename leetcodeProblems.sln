@@ -33,7 +33,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "66PlusOne", "66PlusOne\66Pl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "217ContainsDuplicate", "217ContainsDuplicate\217ContainsDuplicate.csproj", "{44948CA3-00F5-476F-B551-BD583738686A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1822SignOfTheProductOfAnArray", "1822SignOfTheProductOfAnArray\1822SignOfTheProductOfAnArray.csproj", "{E88B1C16-7A3C-4DDF-A0E9-8AB7241CB3E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1822SignOfTheProductOfAnArray", "1822SignOfTheProductOfAnArray\1822SignOfTheProductOfAnArray.csproj", "{E88B1C16-7A3C-4DDF-A0E9-8AB7241CB3E0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "121BestTimeToBuyAndSellStock", "121BestTimeToBuyAndSellStock\121BestTimeToBuyAndSellStock.csproj", "{B4D3424C-699F-4A2E-9752-5062A99830B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1491AverageSalaryExcludingTheMinimumAndMaximumSalary", "1491AverageSalaryExcludingTheMinimumAndMaximumSalary\1491AverageSalaryExcludingTheMinimumAndMaximumSalary.csproj", "{DD4410AB-155C-421E-BDF2-CF83BF373D39}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "70ClimbingStairs", "70ClimbingStairs\70ClimbingStairs.csproj", "{21A429E0-15CA-489B-A49E-48FDB3710C16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3LongestSubstringWithoutRepeatingCharacters", "3LongestSubstringWithoutRepeatingCharacters\3LongestSubstringWithoutRepeatingCharacters.csproj", "{9293C5AE-E5D5-4764-A6BE-D64F05C1452A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +113,22 @@ Global
 		{E88B1C16-7A3C-4DDF-A0E9-8AB7241CB3E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E88B1C16-7A3C-4DDF-A0E9-8AB7241CB3E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E88B1C16-7A3C-4DDF-A0E9-8AB7241CB3E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4D3424C-699F-4A2E-9752-5062A99830B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D3424C-699F-4A2E-9752-5062A99830B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D3424C-699F-4A2E-9752-5062A99830B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D3424C-699F-4A2E-9752-5062A99830B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD4410AB-155C-421E-BDF2-CF83BF373D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4410AB-155C-421E-BDF2-CF83BF373D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4410AB-155C-421E-BDF2-CF83BF373D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4410AB-155C-421E-BDF2-CF83BF373D39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21A429E0-15CA-489B-A49E-48FDB3710C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A429E0-15CA-489B-A49E-48FDB3710C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A429E0-15CA-489B-A49E-48FDB3710C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A429E0-15CA-489B-A49E-48FDB3710C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9293C5AE-E5D5-4764-A6BE-D64F05C1452A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9293C5AE-E5D5-4764-A6BE-D64F05C1452A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9293C5AE-E5D5-4764-A6BE-D64F05C1452A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9293C5AE-E5D5-4764-A6BE-D64F05C1452A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
