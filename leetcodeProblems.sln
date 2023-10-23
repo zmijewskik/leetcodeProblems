@@ -67,7 +67,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "112PathSum", "112PathSum\11
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "118PascalsTriangle", "118PascalsTriangle\118PascalsTriangle.csproj", "{9800A553-51D5-46AB-A9DC-B402AB141F3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6ZigzagConversion", "6ZigzagConversion\6ZigzagConversion.csproj", "{243FDCC7-BAA4-462A-A54C-3E3F1A118CBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6ZigzagConversion", "6ZigzagConversion\6ZigzagConversion.csproj", "{243FDCC7-BAA4-462A-A54C-3E3F1A118CBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7ReverseInteger", "7ReverseInteger\7ReverseInteger.csproj", "{0F1F8D33-FC3C-4301-8608-8D0446ECF87C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -187,6 +189,10 @@ Global
 		{243FDCC7-BAA4-462A-A54C-3E3F1A118CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{243FDCC7-BAA4-462A-A54C-3E3F1A118CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{243FDCC7-BAA4-462A-A54C-3E3F1A118CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F1F8D33-FC3C-4301-8608-8D0446ECF87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1F8D33-FC3C-4301-8608-8D0446ECF87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1F8D33-FC3C-4301-8608-8D0446ECF87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1F8D33-FC3C-4301-8608-8D0446ECF87C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -220,6 +226,7 @@ Global
 		{D0D4CC91-CA16-4D06-BA73-4473C720443C} = {7F5A8CF3-82BD-48A3-99F0-F99A54B12CCC}
 		{9800A553-51D5-46AB-A9DC-B402AB141F3E} = {7F5A8CF3-82BD-48A3-99F0-F99A54B12CCC}
 		{243FDCC7-BAA4-462A-A54C-3E3F1A118CBB} = {3D2485C9-A3B5-4F1F-BCA7-8B3E447EC284}
+		{0F1F8D33-FC3C-4301-8608-8D0446ECF87C} = {3D2485C9-A3B5-4F1F-BCA7-8B3E447EC284}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {13DC52A3-AC32-4D13-8FD1-1184379DF930}
