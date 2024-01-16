@@ -6,26 +6,12 @@ using System.Threading.Tasks;
 
 namespace _217ContainsDuplicate
 {
-    // public class Solution {
-    //     public bool ContainsDuplicate(int[] nums) {
-    //         return nums.GroupBy(x => x).Count() != nums.Length;
-    //     }
-    // }
-
     public class Solution
     {
         public bool ContainsDuplicate(int[] nums)
         {
-            HashSet<int> set = new HashSet<int>(nums);
-
-            if (set.Count < nums.Length)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            // .Count gives < nums.Length when nums contains duplicates
+            return new HashSet<int>(nums).Count < nums.Length;
         }
     }
 }
