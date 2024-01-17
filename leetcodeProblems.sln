@@ -48,6 +48,9 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5LongestPalindromicSubstring", "5LongestPalindromicSubstring\5LongestPalindromicSubstring.csproj", "{C4412F57-5492-469C-8C70-B8186A45FBAD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1to100", "1to100", "{3D2485C9-A3B5-4F1F-BCA7-8B3E447EC284}"
+	ProjectSection(SolutionItems) = preProject
+		219.Contains Duplicate II.cs = 219.Contains Duplicate II.cs
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "101to200", "101to200", "{7F5A8CF3-82BD-48A3-99F0-F99A54B12CCC}"
 EndProject
