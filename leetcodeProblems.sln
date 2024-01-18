@@ -76,6 +76,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7ReverseInteger", "7Reverse
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "201to300", "201to300", "{7A98AB9B-C6CF-481B-8E7E-C72F75FB76AC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3001to3100", "3001to3100", "{2A34CD4B-2F97-4000-9727-A50E915DEA51}"
+	ProjectSection(SolutionItems) = preProject
+		3005.Count Elements With Maximum Frequency.cs = 3005.Count Elements With Maximum Frequency.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
