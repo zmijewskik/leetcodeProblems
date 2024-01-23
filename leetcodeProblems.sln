@@ -81,6 +81,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3001to3100", "3001to3100", 
 		3005.Count Elements With Maximum Frequency.cs = 3005.Count Elements With Maximum Frequency.cs
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1201to1300", "1201to1300", "{592E4ACE-217E-4C79-AC48-3918F70EE375}"
+	ProjectSection(SolutionItems) = preProject
+		1239.Maximum Length of a Concatenated String with Unique Characters.cs = 1239.Maximum Length of a Concatenated String with Unique Characters.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
