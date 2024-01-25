@@ -53,6 +53,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1to100", "1to100", "{3D2485
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "101to200", "101to200", "{7F5A8CF3-82BD-48A3-99F0-F99A54B12CCC}"
+	ProjectSection(SolutionItems) = preProject
+		203.Remove Linked List Elements.cs = 203.Remove Linked List Elements.cs
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "701to800", "701to800", "{E96080B3-43F9-4061-8BA7-A01B1829DAB4}"
 EndProject
