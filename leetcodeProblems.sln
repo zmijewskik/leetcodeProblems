@@ -81,6 +81,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "201to300", "201to300", "{7A
 	ProjectSection(SolutionItems) = preProject
 		202.Happy Number.cs = 202.Happy Number.cs
 		205.IsomorphicStrings.cs = 205.IsomorphicStrings.cs
+		214.Shortest Palindrome.cs = 214.Shortest Palindrome.cs
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3001to3100", "3001to3100", "{2A34CD4B-2F97-4000-9727-A50E915DEA51}"
