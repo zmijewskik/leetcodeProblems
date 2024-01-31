@@ -58,6 +58,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "101to200", "101to200", "{7F
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "701to800", "701to800", "{E96080B3-43F9-4061-8BA7-A01B1829DAB4}"
+	ProjectSection(SolutionItems) = preProject
+		739.Daily Temperatures.cs = 739.Daily Temperatures.cs
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1801to1900", "1801to1900", "{C6A4794A-0E16-4670-B7F1-6EFFEEB01A83}"
 EndProject
