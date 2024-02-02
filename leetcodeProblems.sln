@@ -99,6 +99,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1201to1300", "1201to1300", 
 		1239.Maximum Length of a Concatenated String with Unique Characters.cs = 1239.Maximum Length of a Concatenated String with Unique Characters.cs
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "601to700", "601to700", "{9E17E63D-546C-42CB-B3EB-0069FD3D9148}"
+	ProjectSection(SolutionItems) = preProject
+		645.Set Mismatch.cs = 645.Set Mismatch.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
