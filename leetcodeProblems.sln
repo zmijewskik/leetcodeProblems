@@ -86,6 +86,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "201to300", "201to300", "{7A
 		205.IsomorphicStrings.cs = 205.IsomorphicStrings.cs
 		214.Shortest Palindrome.cs = 214.Shortest Palindrome.cs
 		221.Maximal Square.cs = 221.Maximal Square.cs
+		222.Count Complete Tree Nodes.cs = 222.Count Complete Tree Nodes.cs
 		226.Invert Binary Tree.cs = 226.Invert Binary Tree.cs
 		232.Implement Queue using Stacks.cs = 232.Implement Queue using Stacks.cs
 	EndProjectSection
