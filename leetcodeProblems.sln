@@ -111,6 +111,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "601to700", "601to700", "{9E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "301to400", "301to400", "{C73805C6-5A14-4F84-829D-C8299A8C462A}"
 	ProjectSection(SolutionItems) = preProject
+		300.Longest Increasing Subsequence.cs = 300.Longest Increasing Subsequence.cs
 		303.Range Sum Query - Immutable.cs = 303.Range Sum Query - Immutable.cs
 	EndProjectSection
 EndProject
