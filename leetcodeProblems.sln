@@ -90,6 +90,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "201to300", "201to300", "{7A
 		226.Invert Binary Tree.cs = 226.Invert Binary Tree.cs
 		232.Implement Queue using Stacks.cs = 232.Implement Queue using Stacks.cs
 		234.Palindrome Linked List.cs = 234.Palindrome Linked List.cs
+		283.Move Zeroes.cs = 283.Move Zeroes.cs
 		290.Word Pattern.cs = 290.Word Pattern.cs
 		292.Nim Game.cs = 292.Nim Game.cs
 	EndProjectSection
