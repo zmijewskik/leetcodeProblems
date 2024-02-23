@@ -118,6 +118,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "301to400", "301to400", "{C7
 		326.Power of Three.cs = 326.Power of Three.cs
 		338.Counting Bits.cs = 338.Counting Bits.cs
 		342.Power of Four.cs = 342.Power of Four.cs
+		374.Guess Number Higher or Lower.cs = 374.Guess Number Higher or Lower.cs
+		375.Guess Number Higher or Lower II.cs = 375.Guess Number Higher or Lower II.cs
 	EndProjectSection
 EndProject
 Global
