@@ -121,6 +121,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "301to400", "301to400", "{C7
 		374.Guess Number Higher or Lower.cs = 374.Guess Number Higher or Lower.cs
 		375.Guess Number Higher or Lower II.cs = 375.Guess Number Higher or Lower II.cs
 		383.Ransom Note.cs = 383.Ransom Note.cs
+		387.First Unique Character in a String.cs = 387.First Unique Character in a String.cs
 	EndProjectSection
 EndProject
 Global
